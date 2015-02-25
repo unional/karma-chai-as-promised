@@ -1,0 +1,29 @@
+{
+  "name": "karma-chai-as-promised",
+  "description": "Chai-as-promised for Karma",
+  "keywords": [
+    "karma",
+    "karma-plugin",
+    "chai",
+    "mocha",
+    "should",
+    "chai-as-promised"
+  ],
+  "version": "0.1.0",
+  "author": "Unional <homawong@gmail.com> (http://github.com/unional)",
+  "main": "./index.js",
+  "license": "MIT",
+  "homepage": "https://github.com/unional/karma-chai-as-promised",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unional/karma-chai-as-promised.git"
+  },
+  "bugs": {
+    "url": "https://github.com/unional/karma-chai-as-promised/issues"
+  },
+  "peerDependencies": {
+    "chai": "*",
+    "chai-as-promised": "*",
+    "karma": ">=0.10.9"
+  }
+}
