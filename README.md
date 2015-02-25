@@ -1,7 +1,6 @@
 #karma-chai-as-promised
 
-[Chai](http://chaijs.com) for [Karma](http://karma-runner.github.io)
-
+[Karma](http://karma-runner.github.io) plugin for  [Chai-as-promised](https://github.com/domenic/chai-as-promised/)
 ##Installation
 
 Install the plugin from npm:
