@@ -24,6 +24,6 @@
   "peerDependencies": {
     "chai": "*",
     "chai-as-promised": "*",
-    "karma": ">=0.10.9"
+    "karma": ">=1.7.0"
   }
 }
