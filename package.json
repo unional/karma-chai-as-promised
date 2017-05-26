@@ -22,7 +22,7 @@
     "url": "https://github.com/unional/karma-chai-as-promised/issues"
   },
   "peerDependencies": {
-    "chai": "*",
+    "chai": ">=4.0.0",
     "chai-as-promised": "*",
     "karma": ">=0.10.9"
   }
