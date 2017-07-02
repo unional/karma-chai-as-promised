@@ -23,7 +23,7 @@
   },
   "peerDependencies": {
     "chai": "*",
-    "chai-as-promised": "*",
+    "chai-as-promised": ">=7.1.0",
     "karma": ">=0.10.9"
   }
 }
