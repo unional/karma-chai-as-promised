@@ -1,7 +1,7 @@
-#karma-chai-as-promised
+# karma-chai-as-promised
 
 [Karma](http://karma-runner.github.io) plugin for  [Chai-as-promised](https://github.com/domenic/chai-as-promised/)
-##Installation
+## Installation
 
 Install the plugin from npm:
 
@@ -9,5 +9,5 @@ Install the plugin from npm:
 $ npm install karma-chai-as-promised --save-dev
 ```
 
-##License
+## License
 The MIT License (MIT)
